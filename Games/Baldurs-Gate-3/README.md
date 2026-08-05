@@ -5,6 +5,7 @@
 ## Гайды
 
 - [Установка модов для персонажа 144-го уровня](level-144-mod-installation.md)
+- [Персонаж 144-го уровня: хронологический маршрут, фиксированное ядро и финальный выбор Варвара](level-144-all-classes-build-russian-ui-chronological.md)
 - [Персонаж 144-го уровня: v5 — единая пошаговая инструкция, лесной эльф, старт Варваром](level-144-all-classes-build-russian-ui-v5-integrated-wood-elf-barbarian.md)
 - [Источники эффектов: отдельные полные справочники](effect-sources/README.md)
 - [Персонаж 144-го уровня: v4 — лесной эльф, старт Варваром](level-144-all-classes-build-russian-ui-v4-wood-elf-barbarian-start.md)
