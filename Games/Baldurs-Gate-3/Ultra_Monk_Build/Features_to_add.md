@@ -1,5 +1,10 @@
-# Weapon Styles
-- All
+# Fighting Style (All)
+- Archery
+- Defence
+- Duelling
+- Great Weapon Fighting
+- Protection
+- Two-Weapon Fighting
 
 # Barbarian
 - Reckless Attack
@@ -20,13 +25,17 @@
 - X
 
 # Druid
-
+- Land's Stride: Difficult Terrain
 
 # Fighter
-
+- Second Wind
+- Action Surge
+- Improved Extra Attack
+- Improved Critical Hit
+- Remarkable Athlete: Jump
 
 # Monk
-
+- 
 
 # Paladin
 
