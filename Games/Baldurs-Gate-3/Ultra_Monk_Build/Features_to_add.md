@@ -78,7 +78,7 @@
 
 
 # Ritual Spells
-
+- All
 
 # MAGIC (Spells)
 
