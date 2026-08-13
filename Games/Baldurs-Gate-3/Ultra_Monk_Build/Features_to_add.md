@@ -21,7 +21,7 @@
 
 
 # Cleric
-
+- X
 
 # Druid
 
@@ -54,7 +54,9 @@
 # FEATS
 
 
+# Ritual Spells
 
-# MAGIC
+
+# MAGIC (Spells)
 
 
