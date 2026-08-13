@@ -1,7 +1,3 @@
-# STATS
-- All = 20
-- CHR = 21
-
 # Weapon Styles
 - All
 
@@ -52,6 +48,33 @@
 
 
 # FEATS
+- Alert
+- Athlete
+- Charger
+- Crossbow Expert
+- Dual Wielder
+- Dungeon Delver
+- Elemental Adept: Acid
+- Elemental Adept: Cold
+- Elemental Adept: Lightning
+- Elemental Adept: Fire
+- Elemental Adept: Thunder
+- Great Weapon Master
+- Heavy Armour Master
+- Mage Slayer
+- Medium Armour Master
+- Mobile
+- Polearm Master
+- Savage Attacker
+- Sharpshooter
+- Shield Master
+- Tavern Brawler
+- War Caster
+- ? Resilient
+
+# STATS
+- All = 20
+- CHR = 21
 
 
 # Ritual Spells
