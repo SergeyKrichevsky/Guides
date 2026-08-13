@@ -1,10 +1,11 @@
-STATS
+# STATS
 - All = 20
 - CHR = 21
-- 
 
+# Weapon Styles
+- All
 
-Barbarian
+# Barbarian
 - Reckless Attack
 - Danger Sense
 - Fast Movement
@@ -13,44 +14,47 @@ Barbarian
 - Boot of the Giants
 - Land's Stride: Difficult Terrain
 
-Bard
+# Bard
+- Jack of All Trades
+- Blade Flourish
+- 
 
 
-Cleric
+# Cleric
 
 
-Druid
+# Druid
 
 
-Fighter
+# Fighter
 
 
-Monk
+# Monk
 
 
-Paladin
+# Paladin
 
 
-Ranger
-
-
-
-Rogue
-
-
-Sorcerer
-
-
-Warlock
-
-
-Wizard
-
-
-FEATS
+# Ranger
 
 
 
-MAGIC
+# Rogue
+
+
+# Sorcerer
+
+
+# Warlock
+
+
+# Wizard
+
+
+# FEATS
+
+
+
+# MAGIC
 
 
